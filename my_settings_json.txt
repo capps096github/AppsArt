@@ -46,6 +46,7 @@
         "editor.formatOnType": true
     },
     "workbench.iconTheme": "material-icon-theme",
+    "dart.flutterSdkPath": "/Users/xephasbrian/development/flutter",
     "security.workspace.trust.untrustedFiles": "open",
     "redhat.telemetry.enabled": true,
     "[jsonc]": {
@@ -93,6 +94,27 @@
     "firestorerules.usePrettierFormatter": true,
     "editor.stickyScroll.enabled": false,
     "github.copilot.editor.enableAutoCompletions": true,
-    "files.autoSave": "afterDelay",
     "workbench.editor.empty.hint": "hidden",
+    "cmake.showOptionsMovedNotification": false,
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ],
+    "database-client.autoSync": true,
+    "files.autoSave": "afterDelay",
+    "gitlens.views.scm.grouped.views": {
+        "commits": true,
+        "branches": true,
+        "remotes": true,
+        "stashes": true,
+        "tags": true,
+        "worktrees": true,
+        "contributors": true,
+        "repositories": true,
+        "searchAndCompare": false,
+        "launchpad": false
+    },
+    "dart.debugExternalPackageLibraries": false,
+    "dart.debugSdkLibraries": false,
+    "makefile.configureOnOpen": true,
 }
